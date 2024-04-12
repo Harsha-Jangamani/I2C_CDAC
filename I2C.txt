@@ -1,0 +1,1 @@
+This repo contains Custom I2C IP which is Configurable and Integrated with RISC-V Processor. 
